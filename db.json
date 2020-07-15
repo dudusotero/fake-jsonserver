@@ -1,5 +1,7 @@
 {
-  "id": 1,
-  "name": "Hello World",
-  "date": "2020-07-15T22:14:00.000Z"
+  "posts": [
+    { "id": 1, "name": "Hello World #1", "date": "2020-07-15T22:14:00.000Z" },
+    { "id": 2, "name": "Hello World #2", "date": "2020-07-15T22:14:00.000Z" },
+    { "id": 3, "name": "Hello World #3", "date": "2020-07-15T22:14:00.000Z" },
+  ]
 }
